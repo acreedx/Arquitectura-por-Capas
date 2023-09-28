@@ -1,0 +1,36 @@
+E:\Descargas\NuevaArquitectura\Arquitectura web\Entidades\bin\Debug\net5.0\Entidades.deps.json
+E:\Descargas\NuevaArquitectura\Arquitectura web\Entidades\bin\Debug\net5.0\Entidades.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Entidades\bin\Debug\net5.0\Entidades.pdb
+E:\Descargas\NuevaArquitectura\Arquitectura web\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+E:\Descargas\NuevaArquitectura\Arquitectura web\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+E:\Descargas\NuevaArquitectura\Arquitectura web\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+E:\Descargas\NuevaArquitectura\Arquitectura web\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+E:\Descargas\NuevaArquitectura\Arquitectura web\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+E:\Descargas\NuevaArquitectura\Arquitectura web\Entidades\obj\Debug\net5.0\Entidades.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Entidades\obj\Debug\net5.0\Entidades.pdb
+E:\Descargas\Arquitectura web\Entidades\bin\Debug\net5.0\Entidades.deps.json
+E:\Descargas\Arquitectura web\Entidades\bin\Debug\net5.0\Entidades.dll
+E:\Descargas\Arquitectura web\Entidades\bin\Debug\net5.0\Entidades.pdb
+E:\Descargas\Arquitectura web\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+E:\Descargas\Arquitectura web\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+E:\Descargas\Arquitectura web\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+E:\Descargas\Arquitectura web\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+E:\Descargas\Arquitectura web\Entidades\obj\Debug\net5.0\Entidades.dll
+E:\Descargas\Arquitectura web\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+E:\Descargas\Arquitectura web\Entidades\obj\Debug\net5.0\Entidades.pdb
+E:\Descargas\Arquitectura web\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+E:\Descargas\Arquitectura web\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+E:\Adrian Herrera\Tecnologias emergentes\Arquitectura web\Entidades\bin\Debug\net5.0\Entidades.deps.json
+E:\Adrian Herrera\Tecnologias emergentes\Arquitectura web\Entidades\bin\Debug\net5.0\Entidades.dll
+E:\Adrian Herrera\Tecnologias emergentes\Arquitectura web\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+E:\Adrian Herrera\Tecnologias emergentes\Arquitectura web\Entidades\bin\Debug\net5.0\Entidades.pdb
+E:\Adrian Herrera\Tecnologias emergentes\Arquitectura web\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+E:\Adrian Herrera\Tecnologias emergentes\Arquitectura web\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+E:\Adrian Herrera\Tecnologias emergentes\Arquitectura web\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+E:\Adrian Herrera\Tecnologias emergentes\Arquitectura web\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+E:\Adrian Herrera\Tecnologias emergentes\Arquitectura web\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+E:\Adrian Herrera\Tecnologias emergentes\Arquitectura web\Entidades\obj\Debug\net5.0\Entidades.dll
+E:\Adrian Herrera\Tecnologias emergentes\Arquitectura web\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+E:\Adrian Herrera\Tecnologias emergentes\Arquitectura web\Entidades\obj\Debug\net5.0\Entidades.pdb
