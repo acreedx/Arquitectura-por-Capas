@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Logica_de_negocios
-build_property.ProjectDir = E:\Adrian Herrera\Tecnologias emergentes\Arquitectura web\Logica de negocios\
+build_property.ProjectDir = E:\Arquitectura-por-Capas\Logica de negocios\

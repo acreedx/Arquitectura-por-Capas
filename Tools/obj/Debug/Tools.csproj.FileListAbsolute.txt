@@ -10,3 +10,9 @@ E:\Descargas\Arquitectura web\Tools\obj\Debug\Tools.csproj.AssemblyReference.cac
 E:\Descargas\Arquitectura web\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
 E:\Descargas\Arquitectura web\Tools\obj\Debug\Tools.dll
 E:\Descargas\Arquitectura web\Tools\obj\Debug\Tools.pdb
+E:\Arquitectura-por-Capas\Tools\bin\Debug\Tools.dll
+E:\Arquitectura-por-Capas\Tools\bin\Debug\Tools.pdb
+E:\Arquitectura-por-Capas\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+E:\Arquitectura-por-Capas\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+E:\Arquitectura-por-Capas\Tools\obj\Debug\Tools.dll
+E:\Arquitectura-por-Capas\Tools\obj\Debug\Tools.pdb

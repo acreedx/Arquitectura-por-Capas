@@ -38,27 +38,34 @@ namespace DAL
             Encryption encrypter = new Encryption();
             string username = user.username;
             string password = user.password;
-            if (_context.Users.Any(e => e.Username == username))
+            if (!_context.Database.CanConnect())
             {
-                if (encrypter.VerifyPassword(password, _context.Users.Where(e => e.Username == username).FirstOrDefault().Password))
+
+                Exception e = new Exception("Log/Err/004");
+                throw e;
+            }
+            if (_context.Users.Any(e => e.Username == username))
                 {
-                    LoginResponse resp = new LoginResponse();
-                    resp.ErrorCode = 200;
-                    resp.Description = "";
-                    resp.Message = "Iniciaste sesión";
-                    return resp;
+                    if (encrypter.VerifyPassword(password, _context.Users.Where(e => e.Username == username).FirstOrDefault().Password))
+                    {
+                        LoginResponse resp = new LoginResponse();
+                        resp.ErrorCode = 200;
+                        resp.Description = "";
+                        resp.Message = "Iniciaste sesión";
+                        return resp;
+                    }
+                    else
+                    {
+                        Exception e = new Exception("Log/Err/002");
+                        throw e;
+                    }
                 }
                 else
                 {
-                    Exception e = new Exception("Log/Err/002");
+                    Exception e = new Exception("Log/Err/001");
                     throw e;
                 }
-            }
-            else
-            {
-                Exception e = new Exception("Log/Err/001");
-                throw e;
-            }
+            
         }
     }
 }

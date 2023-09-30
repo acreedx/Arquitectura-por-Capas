@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Adrian Herrera\\Tecnologias emergentes\\Arquitectura web\\Entidades\\Entidades.csproj": {}
+    "E:\\Arquitectura-por-Capas\\Entidades\\Entidades.csproj": {}
   },
   "projects": {
-    "E:\\Adrian Herrera\\Tecnologias emergentes\\Arquitectura web\\Entidades\\Entidades.csproj": {
+    "E:\\Arquitectura-por-Capas\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Adrian Herrera\\Tecnologias emergentes\\Arquitectura web\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "E:\\Arquitectura-por-Capas\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "E:\\Adrian Herrera\\Tecnologias emergentes\\Arquitectura web\\Entidades\\Entidades.csproj",
+        "projectPath": "E:\\Arquitectura-por-Capas\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-        "outputPath": "E:\\Adrian Herrera\\Tecnologias emergentes\\Arquitectura web\\Entidades\\obj\\",
+        "outputPath": "E:\\Arquitectura-por-Capas\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }

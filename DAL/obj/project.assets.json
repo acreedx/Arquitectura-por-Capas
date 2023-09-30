@@ -5835,11 +5835,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Adrian Herrera\\Tecnologias emergentes\\Arquitectura web\\DAL\\DAL.csproj",
+      "projectUniqueName": "E:\\Arquitectura-por-Capas\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "E:\\Adrian Herrera\\Tecnologias emergentes\\Arquitectura web\\DAL\\DAL.csproj",
+      "projectPath": "E:\\Arquitectura-por-Capas\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-      "outputPath": "E:\\Adrian Herrera\\Tecnologias emergentes\\Arquitectura web\\DAL\\obj\\",
+      "outputPath": "E:\\Arquitectura-por-Capas\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -5862,11 +5862,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\Adrian Herrera\\Tecnologias emergentes\\Arquitectura web\\Entidades\\Entidades.csproj": {
-              "projectPath": "E:\\Adrian Herrera\\Tecnologias emergentes\\Arquitectura web\\Entidades\\Entidades.csproj"
+            "E:\\Arquitectura-por-Capas\\Entidades\\Entidades.csproj": {
+              "projectPath": "E:\\Arquitectura-por-Capas\\Entidades\\Entidades.csproj"
             },
-            "E:\\Adrian Herrera\\Tecnologias emergentes\\Arquitectura web\\Tools\\Tools.csproj": {
-              "projectPath": "E:\\Adrian Herrera\\Tecnologias emergentes\\Arquitectura web\\Tools\\Tools.csproj"
+            "E:\\Arquitectura-por-Capas\\Tools\\Tools.csproj": {
+              "projectPath": "E:\\Arquitectura-por-Capas\\Tools\\Tools.csproj"
             }
           }
         }
@@ -5913,7 +5913,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
       }
     }
   }

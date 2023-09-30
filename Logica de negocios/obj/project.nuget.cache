@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SVpMY0U0n6LI2aZAjaXPbFpB8mG7B3vqKxYcY6HdUUJPX7/c7PT6oXx3q1T7CuGz9SPgjeFYdh+vmBit1jVxsA==",
+  "dgSpecHash": "oBy4+jRTsBEqhIOUabdYSMxAPYxgMbb/GjnQOn1xZCgaO1F5vVvtoq5aZlw4g8U72b+QeBnAzFM/9enXtYUWAA==",
   "success": true,
-  "projectFilePath": "E:\\Adrian Herrera\\Tecnologias emergentes\\Arquitectura web\\Logica de negocios\\Logica de negocios.csproj",
+  "projectFilePath": "E:\\Arquitectura-por-Capas\\Logica de negocios\\Logica de negocios.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alumno\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Alumno\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

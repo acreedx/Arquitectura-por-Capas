@@ -34,3 +34,15 @@ E:\Adrian Herrera\Tecnologias emergentes\Arquitectura web\Entidades\obj\Debug\ne
 E:\Adrian Herrera\Tecnologias emergentes\Arquitectura web\Entidades\obj\Debug\net5.0\Entidades.dll
 E:\Adrian Herrera\Tecnologias emergentes\Arquitectura web\Entidades\obj\Debug\net5.0\ref\Entidades.dll
 E:\Adrian Herrera\Tecnologias emergentes\Arquitectura web\Entidades\obj\Debug\net5.0\Entidades.pdb
+E:\Arquitectura-por-Capas\Entidades\bin\Debug\net5.0\Entidades.deps.json
+E:\Arquitectura-por-Capas\Entidades\bin\Debug\net5.0\Entidades.dll
+E:\Arquitectura-por-Capas\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+E:\Arquitectura-por-Capas\Entidades\bin\Debug\net5.0\Entidades.pdb
+E:\Arquitectura-por-Capas\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+E:\Arquitectura-por-Capas\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arquitectura-por-Capas\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+E:\Arquitectura-por-Capas\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+E:\Arquitectura-por-Capas\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+E:\Arquitectura-por-Capas\Entidades\obj\Debug\net5.0\Entidades.dll
+E:\Arquitectura-por-Capas\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+E:\Arquitectura-por-Capas\Entidades\obj\Debug\net5.0\Entidades.pdb

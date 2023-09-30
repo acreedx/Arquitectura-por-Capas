@@ -266,3 +266,72 @@ E:\Adrian Herrera\Tecnologias emergentes\Arquitectura web\Api Web\obj\Debug\net5
 E:\Adrian Herrera\Tecnologias emergentes\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.RazorTargetAssemblyInfo.cache
 E:\Adrian Herrera\Tecnologias emergentes\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.csproj.CopyComplete
 E:\Adrian Herrera\Tecnologias emergentes\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.genruntimeconfig.cache
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\appsettings.Development.json
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\appsettings.json
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\Api Web.exe
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\Api Web.deps.json
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\Api Web.runtimeconfig.json
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\Api Web.runtimeconfig.dev.json
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\Api Web.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\ref\Api Web.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\Api Web.pdb
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\Humanizer.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\DAL.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\Entidades.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\Logica de negocios.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\Tools.dll
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\Entidades.pdb
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\Logica de negocios.pdb
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\Tools.pdb
+E:\Arquitectura-por-Capas\Api Web\bin\Debug\net5.0\DAL.pdb
+E:\Arquitectura-por-Capas\Api Web\obj\Debug\net5.0\Api Web.csproj.AssemblyReference.cache
+E:\Arquitectura-por-Capas\Api Web\obj\Debug\net5.0\Api Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arquitectura-por-Capas\Api Web\obj\Debug\net5.0\Api Web.AssemblyInfoInputs.cache
+E:\Arquitectura-por-Capas\Api Web\obj\Debug\net5.0\Api Web.AssemblyInfo.cs
+E:\Arquitectura-por-Capas\Api Web\obj\Debug\net5.0\Api Web.csproj.CoreCompileInputs.cache
+E:\Arquitectura-por-Capas\Api Web\obj\Debug\net5.0\Api Web.MvcApplicationPartsAssemblyInfo.cs
+E:\Arquitectura-por-Capas\Api Web\obj\Debug\net5.0\Api Web.MvcApplicationPartsAssemblyInfo.cache
+E:\Arquitectura-por-Capas\Api Web\obj\Debug\net5.0\staticwebassets\Api Web.StaticWebAssets.Manifest.cache
+E:\Arquitectura-por-Capas\Api Web\obj\Debug\net5.0\staticwebassets\Api Web.StaticWebAssets.xml
+E:\Arquitectura-por-Capas\Api Web\obj\Debug\net5.0\scopedcss\bundle\Api Web.styles.css
+E:\Arquitectura-por-Capas\Api Web\obj\Debug\net5.0\Api Web.RazorTargetAssemblyInfo.cache
+E:\Arquitectura-por-Capas\Api Web\obj\Debug\net5.0\Api Web.csproj.CopyComplete
+E:\Arquitectura-por-Capas\Api Web\obj\Debug\net5.0\Api Web.dll
+E:\Arquitectura-por-Capas\Api Web\obj\Debug\net5.0\ref\Api Web.dll
+E:\Arquitectura-por-Capas\Api Web\obj\Debug\net5.0\Api Web.pdb
+E:\Arquitectura-por-Capas\Api Web\obj\Debug\net5.0\Api Web.genruntimeconfig.cache

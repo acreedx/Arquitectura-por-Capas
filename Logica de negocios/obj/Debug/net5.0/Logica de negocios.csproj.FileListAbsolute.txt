@@ -68,3 +68,22 @@ E:\Adrian Herrera\Tecnologias emergentes\Arquitectura web\Logica de negocios\obj
 E:\Adrian Herrera\Tecnologias emergentes\Arquitectura web\Logica de negocios\obj\Debug\net5.0\Logica de negocios.dll
 E:\Adrian Herrera\Tecnologias emergentes\Arquitectura web\Logica de negocios\obj\Debug\net5.0\ref\Logica de negocios.dll
 E:\Adrian Herrera\Tecnologias emergentes\Arquitectura web\Logica de negocios\obj\Debug\net5.0\Logica de negocios.pdb
+E:\Arquitectura-por-Capas\Logica de negocios\bin\Debug\net5.0\Logica de negocios.deps.json
+E:\Arquitectura-por-Capas\Logica de negocios\bin\Debug\net5.0\Logica de negocios.dll
+E:\Arquitectura-por-Capas\Logica de negocios\bin\Debug\net5.0\ref\Logica de negocios.dll
+E:\Arquitectura-por-Capas\Logica de negocios\bin\Debug\net5.0\Logica de negocios.pdb
+E:\Arquitectura-por-Capas\Logica de negocios\bin\Debug\net5.0\DAL.dll
+E:\Arquitectura-por-Capas\Logica de negocios\bin\Debug\net5.0\Entidades.dll
+E:\Arquitectura-por-Capas\Logica de negocios\bin\Debug\net5.0\Tools.dll
+E:\Arquitectura-por-Capas\Logica de negocios\bin\Debug\net5.0\DAL.pdb
+E:\Arquitectura-por-Capas\Logica de negocios\bin\Debug\net5.0\Entidades.pdb
+E:\Arquitectura-por-Capas\Logica de negocios\bin\Debug\net5.0\Tools.pdb
+E:\Arquitectura-por-Capas\Logica de negocios\obj\Debug\net5.0\Logica de negocios.csproj.AssemblyReference.cache
+E:\Arquitectura-por-Capas\Logica de negocios\obj\Debug\net5.0\Logica de negocios.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arquitectura-por-Capas\Logica de negocios\obj\Debug\net5.0\Logica de negocios.AssemblyInfoInputs.cache
+E:\Arquitectura-por-Capas\Logica de negocios\obj\Debug\net5.0\Logica de negocios.AssemblyInfo.cs
+E:\Arquitectura-por-Capas\Logica de negocios\obj\Debug\net5.0\Logica de negocios.csproj.CoreCompileInputs.cache
+E:\Arquitectura-por-Capas\Logica de negocios\obj\Debug\net5.0\Logica de negocios.csproj.CopyComplete
+E:\Arquitectura-por-Capas\Logica de negocios\obj\Debug\net5.0\Logica de negocios.dll
+E:\Arquitectura-por-Capas\Logica de negocios\obj\Debug\net5.0\ref\Logica de negocios.dll
+E:\Arquitectura-por-Capas\Logica de negocios\obj\Debug\net5.0\Logica de negocios.pdb

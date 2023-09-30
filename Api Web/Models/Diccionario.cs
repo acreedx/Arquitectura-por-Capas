@@ -11,7 +11,7 @@ namespace Entidades
         public Dictionary<string, string> ErrorDictionary { get; set; } = new Dictionary<string, string>
         {
             { "Log/Err/001" , "Usuario no encontrado" },
-            { "Log/Err/002" , "Password no coincide" },
+            { "Log/Err/002" , "Usuario no encontrado" },
             { "Log/Err/003" , "Usuario bloqueado" },
             { "Log/Err/004" , "Error al conectarse con la base de datos" },
             { "Log/Err/005" , "El servidor tardo demasiado en responder" },

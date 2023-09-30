@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kayGfTEXnu+TC6YYaDXrVyrhnwKuwxGbduzG3B0RWDC0ULQC4IdGg/X9kA5I8yGfE6LQnz79kw7EDMQwjqe5UA==",
+  "dgSpecHash": "DrFIuSDxzo87FxLou8dk+FiAdsmGzCVr1rjmj7Pbm0IG+/0cRf11gBPevO+HiCq92UCNsjK2uzM8sP/MlCIOTA==",
   "success": true,
-  "projectFilePath": "E:\\Adrian Herrera\\Tecnologias emergentes\\Arquitectura web\\Api Web\\Api Web.csproj",
+  "projectFilePath": "E:\\Arquitectura-por-Capas\\Api Web\\Api Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alumno\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Alumno\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

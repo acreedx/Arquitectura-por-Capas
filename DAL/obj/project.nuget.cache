@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YdV4j2Evg0vbktJ9UHVsi55Hq7FzAwbWH+9VZp7fL/kHsQhPfcu3Dv4vcq7nh4qHqFy2a+MzKz+D/uSUdKbviQ==",
+  "dgSpecHash": "o9IrAQgr4A68XrUHH9bjPGR4qpWmZFz5h7/YO/qfnqRvO44zHzCYNBmj+OsD7wJ3dEAiQblXGXrHFoEacMLetg==",
   "success": true,
-  "projectFilePath": "E:\\Adrian Herrera\\Tecnologias emergentes\\Arquitectura web\\DAL\\DAL.csproj",
+  "projectFilePath": "E:\\Arquitectura-por-Capas\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alumno\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Alumno\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
